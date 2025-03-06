@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 255, 255); 
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+}
+
+.product-list-section {
+  margin-top: 0px; 
+  padding: 0px; 
+}
+
+.cart-table {
+  margin-top: 50px;
+  padding: 30px;
+}
+
+button {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #cc0000; 
+}
